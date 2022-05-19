@@ -1,0 +1,25 @@
+﻿  Main.c
+C:\Users\tohar\Downloads\Main.c(45,63): warning C4047: 'function': 'const char' differs in levels of indirection from 'char [16]'
+C:\Users\tohar\Downloads\Main.c(45,46): warning C4024: 'makeStudentArrayFromFile': different types for formal and actual parameter 1
+C:\Users\tohar\Downloads\Main.c(51,82): warning C4047: 'function': 'const int' differs in levels of indirection from 'int *'
+C:\Users\tohar\Downloads\Main.c(51,65): warning C4024: 'transformStudentArray': different types for formal and actual parameter 2
+C:\Users\tohar\Downloads\Main.c(45,1): warning C4047: 'initializing': 'char ***' differs in levels of indirection from 'char **'
+C:\Users\tohar\Downloads\Main.c(72,39): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\tohar\Downloads\Main.c(124,45): warning C4028: formal parameter 1 different from declaration
+C:\Users\tohar\Downloads\Main.c(173,19): warning C4047: 'return': 'char **' differs in levels of indirection from 'char ***'
+C:\Users\tohar\Downloads\Main.c(182,12): warning C4098: 'factorGivenCourse': 'void' function returning a value
+C:\Users\tohar\Downloads\Main.c(225,29): warning C4028: formal parameter 1 different from declaration
+C:\Users\tohar\Downloads\Main.c(225,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\tohar\Downloads\Main.c(235,21): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\tohar\Downloads\Main.c(237,12): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\tohar\Downloads\Main.c(252,9): warning C4022: 'fwrite': pointer mismatch for actual parameter 1
+C:\Users\tohar\Downloads\Main.c(252,61): warning C4090: 'function': different 'const' qualifiers
+C:\Users\tohar\Downloads\Main.c(258,43): warning C4090: 'function': different 'const' qualifiers
+C:\Users\tohar\Downloads\Main.c(259,21): warning C4022: 'fwrite': pointer mismatch for actual parameter 1
+C:\Users\tohar\Downloads\Main.c(259,87): warning C4090: 'function': different 'const' qualifiers
+C:\Users\tohar\Downloads\Main.c(271,61): warning C4028: formal parameter 2 different from declaration
+C:\Users\tohar\Downloads\Main.c(292,21): warning C4028: formal parameter 1 different from declaration
+C:\Users\tohar\Downloads\Main.c(301,3): warning C4033: 'countline' must return a value
+C:\Users\tohar\Downloads\Main.c(269): warning C4716: 'readFromBinFile': must return a value
+C:\Users\tohar\Downloads\Main.c(320): warning C4715: 'countline': not all control paths return a value
+  files.vcxproj -> C:\Users\tohar\OneDrive\שולחן העבודה\לימודים\פורייקטים C\C מתקדמים\מטלה קבצים\files\Debug\files.exe
